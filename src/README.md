@@ -1,1 +1,1 @@
-This folder will contain codes for testing.
+This folder will contain source code.

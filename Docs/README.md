@@ -1,1 +1,1 @@
-This folder will contain source code.
+This folder will contain technical documentation.
